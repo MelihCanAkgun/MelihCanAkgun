@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Melih Can Akgün — Fikirden çalışan uygulamaya. Flutter, Dart ve C#." width="100%" />
+  <img src="./assets/profile-header.svg" alt="Melih Can Akgün — Fikirden çalışan uygulamaya. Flutter, Dart, C#., Python" width="100%" />
 </p>
 
-<h1 align="center">Merhaba, ben Melih 👋</h1>
+<h1 align="center">Merhaba, ben Melih </h1>
 
 <p align="center">
   Flutter/Dart ve C# ile <b>oyunlar, öğrenme araçları ve masaüstü uygulamaları</b> geliştiriyorum.<br />
@@ -18,14 +18,6 @@
 ---
 
 ## Öne çıkan projeler
-
-### 🎮 [Hukuk Reels · Oyunlar](https://github.com/MelihCanAkgun/hukuk-reels)
-
-**Mini oyunlar ve hukuk soru bankası, tek uygulamada.**
-
-Flutter ile geliştirilen projede Block Blast, Flappy Silly Cat ve Subway Silly oyunları, hukuk soruları ve ilerleme kaydı bir araya geliyor. Web/PWA sürümünde oyunlar ilk önbelleklemeden sonra çevrimdışı da açılabiliyor.
-
-`Flutter` `Dart` `Web / PWA` `Yerel kayıt`
 
 ### 🧮 [Calculator · v4](https://github.com/MelihCanAkgun/calc-version4)
 
