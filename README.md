@@ -13,9 +13,9 @@
 
 ## Öne çıkan projeler
 
-### [Hukuk Reels](https://github.com/MelihCanAkgun/hukuk-reels) · [Canlı demo](https://melihcanakgun.github.io/hukuk-reels/)
+### [Hukuk Reels](https://github.com/MelihCanAkgun/hukuk-reels)
 **Hukuk öğrenimini kısa, oyunlaştırılmış oturumlara dönüştüren, çevrimdışı çalışan Flutter PWA.**
-Ders özetleri (iPad + Apple Pencil için not modu), soru bankası, mini oyunlar ve iki kişilik skor tablosu. Özel service worker ile ilk yüklemeden sonra internetsiz açılır; skor ve bildirimler için Cloudflare Workers + D1 üzerinde küçük bir API kullanır.
+Ders özetleri (iPad + Apple Pencil için not modu), soru bankası ve mini oyunlar. Özel service worker ile ilk yüklemeden sonra internetsiz açılır; arka uçta Cloudflare Workers + D1 üzerinde küçük bir API kullanır.
 `Flutter` `Dart` `PWA` `Service Worker` `Cloudflare Workers` `D1` `Web Push`
 
 ### [Dragon Saj — Sıcaklık Paneli](https://github.com/MelihCanAkgun/SicaklikPaneli)
