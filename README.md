@@ -1,50 +1,66 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" alt="Melih Can Akgün — Fikirden çalışan uygulamaya. Flutter, Dart, C#., Python" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profil-banner-koyu.png">
+  <img alt="Melih Can Akgün — Flutter · C# · Android" src="assets/profil-banner-acik.png" width="100%">
+</picture>
 
-<h1 align="center">Merhaba, ben Melih </h1>
+# Merhaba, ben Melih Can 👋
 
-<p align="center">
-  Flutter/Dart ve C# ile <b>oyunlar, öğrenme araçları ve masaüstü uygulamaları</b> geliştiriyorum.<br />
-  Burada fikirlerimin çalışan hâllerini ve gelişim süreçlerini bulabilirsin.
-</p>
+İzmir Bakırçay Üniversitesi'nde öğrenciyim. Fikirleri **uçtan uca çalışan, yayında olan uygulamalara** dönüştürmeyi seviyorum: Flutter ile çevrimdışı çalışan web uygulamaları, Kotlin ile Android uygulamaları ve C#/.NET ile Windows masaüstü araçları geliştiriyorum.
 
-<p align="center">
-  <a href="#öne-çıkan-projeler">Projeleri keşfet</a> ·
-  <a href="#kullandığım-teknolojiler">Teknolojiler</a> ·
-  <a href="https://github.com/MelihCanAkgun?tab=repositories">Tüm depolar</a>
-</p>
+- **Mobil ve web:** Flutter/Dart ile PWA, Kotlin ile Android
+- **Masaüstü:** C# / .NET, Windows Forms, donanım sensörleri
+- **Küçük backend'ler:** Cloudflare Workers + D1, Web Push
 
 ---
 
 ## Öne çıkan projeler
 
-### 🧮 [Calculator · v4](https://github.com/MelihCanAkgun/calc-version4)
+### [Hukuk Reels](https://github.com/MelihCanAkgun/hukuk-reels) · [Canlı demo](https://melihcanakgun.github.io/hukuk-reels/)
+**Hukuk öğrenimini kısa, oyunlaştırılmış oturumlara dönüştüren, çevrimdışı çalışan Flutter PWA.**
+Ders özetleri (iPad + Apple Pencil için not modu), soru bankası, mini oyunlar ve iki kişilik skor tablosu. Özel service worker ile ilk yüklemeden sonra internetsiz açılır; skor ve bildirimler için Cloudflare Workers + D1 üzerinde küçük bir API kullanır.
+`Flutter` `Dart` `PWA` `Service Worker` `Cloudflare Workers` `D1` `Web Push`
 
-**C# ile masaüstü uygulama geliştirme.**
+### [Dragon Saj — Sıcaklık Paneli](https://github.com/MelihCanAkgun/SicaklikPaneli)
+**Windows için hafif CPU/GPU sıcaklık izleyicisi ve oyun içi gösterge.**
+Görev çubuğunda canlı sıcaklık, son 3 dakikanın grafiği, tam ekran oyunlarda otomatik açılan overlay (RTSS desteğiyle), ısıl kısıtlama uyarısı; MSI dizüstülerde fan eğrisi ve performans modu, NVIDIA kartlarda sınırlı hız aşırtma.
+`C#` `.NET 9` `Windows Forms` `LibreHardwareMonitor`
 
-İzmir Bakırçay Üniversitesi ders projesi kapsamında geliştirdiğim Windows Forms hesap makinesi. Arayüz tasarımı ve olay odaklı programlama çalışmalarımı içeriyor.
-
-`C#` `Windows Forms` `Masaüstü`
+### [Cemil'in Yeri — İndirme sayfası](https://github.com/MelihCanAkgun/cemilin-yeri-indir) · [Sayfayı aç](https://melihcanakgun.github.io/cemilin-yeri-indir/)
+**Geliştirdiğim Android veresiye defteri uygulamasının dağıtım sayfası.**
+Play Store dışından kurulumu adım adım anlatan, sürüm notlarını ve QR kodu içeren, açık/koyu temalı tek sayfalık site. Uygulamanın kendisi Kotlin ile yazıldı.
+`Kotlin` `Android` `HTML` `CSS` `GitHub Pages`
 
 <details>
-  <summary>İlk sürüme de göz at</summary>
+<summary><b>Diğer çalışmalar — üniversite ders projeleri</b></summary>
 
-  [Hesap Makinesi · Proje 1](https://github.com/MelihCanAkgun/Hesap-makinesi-proje-1), hesap makinesi çalışmalarımın ilk deposu.
+- [**calc-version4**](https://github.com/MelihCanAkgun/calc-version4) — C# / Windows Forms hesap makinesi, ders projesinin geliştirilmiş sürümü (.NET 8).
+- [**Hesap-makinesi-proje-1**](https://github.com/MelihCanAkgun/Hesap-makinesi-proje-1) — Aynı projenin ilk sürümü (.NET Framework 4.7.2); olay odaklı programlamaya ilk adımlarım.
 
 </details>
 
-## Kullandığım teknolojiler
+---
 
-| Alan | Projelerimde kullandıklarım |
+## Teknolojiler
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+| Alan | Kullandıklarım |
 | :--- | :--- |
-| Uygulama ve oyun | Flutter · Dart |
-| Masaüstü | C# · Windows Forms |
-| Web deneyimi | PWA · Çevrimdışı önbellekleme · Yerel depolama |
+| Mobil & web | Flutter, Dart, PWA, service worker, çevrimdışı önbellekleme |
+| Android | Kotlin |
+| Masaüstü | C#, .NET, Windows Forms |
+| Backend | Cloudflare Workers, D1 (SQLite), Web Push |
+| Araçlar | Git, GitHub Pages |
 
 ---
 
-<p align="center">
-  <b>Kodu keşfet, fikrin varsa bir issue aç.</b><br />
-  <sub>Projelere dair geri bildirim ve önerilere açığım.</sub>
-</p>
+## İletişim
+
+Projelerle ilgili geri bildirim ve önerilere açığım; bir issue açmaktan çekinme.
