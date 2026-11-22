@@ -3,9 +3,7 @@
   <img alt="Melih Can Akgün — Flutter · C# · Android" src="assets/profil-banner-acik.png" width="100%">
 </picture>
 
-# Merhaba, ben Melih Can 👋
-
-İzmir Bakırçay Üniversitesi'nde öğrenciyim. Fikirleri **uçtan uca çalışan, yayında olan uygulamalara** dönüştürmeyi seviyorum: Flutter ile çevrimdışı çalışan web uygulamaları, Kotlin ile Android uygulamaları ve C#/.NET ile Windows masaüstü araçları geliştiriyorum.
+# 
 
 - **Mobil ve web:** Flutter/Dart ile PWA, Kotlin ile Android
 - **Masaüstü:** C# / .NET, Windows Forms, donanım sensörleri
